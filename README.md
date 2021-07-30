@@ -1,5 +1,5 @@
 # BUAA-CryptoLab
-BUAA-Cryptolab,consists of some basic crypto algorithm and some baby exploit scripts.
+BUAA-Cryptolab,consists of some basic crypto algorithms and some baby exploit scripts.
 
 ## description
 
