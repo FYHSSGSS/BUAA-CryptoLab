@@ -55,6 +55,8 @@ BUAA-Cryptolab,consists of some basic crypto algorithm and some baby exploit scr
 
   Lab13 is about digital signature.It contains 3 signature demos with 3 different algorithms.
 
+the `flowchartgen.py` is used to generate a flowchart of the program.
+
 ## directory
 
 ```shell
